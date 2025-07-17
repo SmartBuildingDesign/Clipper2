@@ -67,3 +67,4 @@ target_link_libraries(${PROJECT_NAME} Clipper2)
 | **Java** | https://github.com/micycle1/Clipper2-java/ |
 | **Kotlin** | https://github.com/Monkey-Maestro/clipper2-kotlin |
 | **golang** | https://github.com/epit3d/goclipper2 |
+| **Lua** | https://github.com/Ark223/Clipper2-Lua |
